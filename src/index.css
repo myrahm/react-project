@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+div { 
+      font-family: 'Lexend', sans-serif;
+      padding: 20px;
+      line-height: 1.5;
+}
+
+pre {
+    background: #f4f4f4; 
+    padding: 15px; 
+    border-radius: 5px;
+    color: #333;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: rgb(12, 87, 199);
+}
+
+h2{
+  margin-top: 2rem;
+  color: rgb(10, 63, 144);
+}
+
+h3{
+  margin-top: 1.5rem;
+}
+
+mark{
+  background-color: rgb(255, 255, 0);
+}
