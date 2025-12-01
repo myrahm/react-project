@@ -29,8 +29,8 @@ npm run dev`}
         the default content with this explanation you're seeing on the web page now.
       </p>
       <p>
-        This page is a <b>simple functional component</b> (foundation of React) that returns HTML - like JSX. 
-        I used standard HTML tags such as <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;p&gt;</code>, and <code>&lt;pre&gt;</code>
+        This page is a <b>simple functional component</b> (foundation of React) that returns HTML (like JSX). 
+        I used standard HTML tags such as <code>h1</code>, <code>h2</code>, <code>p</code>, and <code>pre</code>
       </p>
       <p>
         The styling is done using CSS in the <code>index.css</code> file, which was created automatically by Vite when I set up the project.
@@ -38,9 +38,9 @@ npm run dev`}
 
       <h3><mark>Files I Changed:</mark></h3>
       <ul>
-        <li><code>src/App.jsx</code> — added my React component</li>
-        <li><code>index.html</code> - changed the title name of the web page</li>
-        <li><code>index.css</code> - changed the styling of my web page</li>
+        <li><code>src/App.jsx: </code>Added my React component</li>
+        <li><code>index.html: </code>Changed the title name of the web page</li>
+        <li><code>index.css: </code>Changed the styling of my web page</li>
       </ul>
 
       <p>
@@ -57,7 +57,7 @@ npm run dev`}
       </p>
 
       <h2>4. Final Result</h2>
-      <p>This is the web page you’re currently viewing — built entirely with React library framework!</p>
+      <p>This is the web page you’re currently viewing, built entirely with React library framework!</p>
     </div>
   );
 
