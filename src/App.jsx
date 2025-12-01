@@ -1,5 +1,3 @@
-
-
 function App() {
     return (
     <div>
@@ -49,7 +47,16 @@ npm run dev`}
         When I save the file, Vite automatically reloads the page because it includes hot reload support.
       </p>
 
-      <h2>3. Final Result</h2>
+      <h2>3. Challenges I Faced:</h2>
+      <p>
+        Since I was new to React, I had to learn the basics of JSX syntax and how to structure components.
+        I also had to understand how Vite works as a build tool and how it integrates with React.
+      </p>
+      <p>
+        However, the official React documentation and tutorials online were very helpful in overcoming these challenges.
+      </p>
+
+      <h2>4. Final Result</h2>
       <p>This is the web page you’re currently viewing — built entirely with React library framework!</p>
     </div>
   );
